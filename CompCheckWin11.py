@@ -454,7 +454,7 @@ class Win11CheckerGUI:
         # Set application icon (if available)
 
         try:
-            self.root.iconbitmap("C:\\Users\\vincenzo\\Desktop\\win11_checker.ico")
+            self.root.iconbitmap("win11_checker.ico")
         except:
             pass
             
@@ -601,7 +601,7 @@ class Win11CheckerGUI:
         try:
             # Use the full path to the ico file
 
-            ico_path = "C:\\Users\\vincenzo\\Desktop\\win11_checker.ico"
+            ico_path = "win11_checker.ico"
             
             # Upload the
 
@@ -1063,7 +1063,7 @@ class Win11CheckerGUI:
         
         # Try setting the icon
         try:
-            advice_window.iconbitmap("c:\\users\\vincenzo\\desktop\\win11_checker.ico")
+            advice_window.iconbitmap("win11_checker.ico")
         except:
             pass
             
