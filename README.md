@@ -38,7 +38,7 @@ Download the latest release from the [Releases](https://github.com/yourusername/
 ### Option 2: Run from Source
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/win11-compatibility-checker.git
+git clone https://github.com/Zrufy/win11-compatibility-checker.git
 ```
 
 2. Install the required dependencies:
