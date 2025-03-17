@@ -32,10 +32,6 @@ A desktop application that checks if your system meets the requirements for Wind
 
 ## Installation
 
-### Option 1: Download the Executable
-Download the latest release from the [Releases](https://github.com/yourusername/win11-compatibility-checker/releases) page.
-
-### Option 2: Run from Source
 1. Clone this repository:
 ```
 git clone https://github.com/Zrufy/win11-compatibility-checker.git
