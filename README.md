@@ -2,7 +2,7 @@
 
 A desktop application that checks if your system meets the requirements for Windows 11.
 
-![Win11 Compatibility Checker Screenshot](screenshot.png)
+![Win11 Compatibility Checker Screenshot](Screenshot.png)
 
 ## Features
 
